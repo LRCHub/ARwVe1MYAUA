@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "君はロックを聴かない",
   "base_artist": "あいみょん",
-  "createdAt": "2026-03-20T12:21:56.308283Z",
+  "createdAt": "2026-03-29T15:28:32.436649Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -75,6 +75,15 @@
       "artist": "あいみょん",
       "has_synced": true,
       "path": "select/localdb_01_君はロックを聴かない_あいみょん.lrc",
+      "repo_name": "ARwVe1MYAUA"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "君はロックを聴かない",
+      "artist": "あいみょん",
+      "has_synced": true,
+      "path": "select/localdb_02_君はロックを聴かない_あいみょん.lrc",
       "repo_name": "ihhdNqG32cw"
     }
   ]
